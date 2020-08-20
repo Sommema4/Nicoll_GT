@@ -1,0 +1,42 @@
+ID;Ur?ovatel;Pouzdro;Množství;Ur?ení;Dostupné;Cena za kus;Cena
+1;S1;PushButton_Round_D12mm_THT_KS-01Q-01;1;GPTS203211B;630-028;12;12
+2;MH1,MH2,MH3,MH4;MountingHole_3.2mm_M3_Pad;4;MountingHole_Pad;;;
+3;A1;Arduino_Nano;1;Arduino_Nano_v3.x;;;
+4;C1,C3,C4,C6,C8;C_1206_3216Metric_Pad1.42x1.75mm_HandSolder;5;10uF;;;0
+5;C2,C7,C10,C11;C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;4;1uF;;;0
+6;C5;C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;1;0.1uF;;;0
+7;C9;C_1206_3216Metric_Pad1.42x1.75mm_HandSolder;1;22uF;;;0
+8;D1,D3;D_DO-41_SOD81_P10.16mm_Horizontal;2;1N4007;220-002 pop?ípad? 917-065;1.6;3.2
+9;D2;D_DO-41_SOD81_P10.16mm_Horizontal;1;1N5819;223-001;2.8;2.8
+10;IC1;SOIC127P600X175-8N;1;LMC6042IN/NOPB;https://cz.mouser.com/ProductDetail/Texas-Instruments/LMC6042IN-NOPB?qs=QbsRYf82W3F%252BvJ4QFsi9pA%3D%3D;79.82;79.82
+11;IC2;SOP65P490X110-8N;1;CAT5140ZI-00-GT3;https://cz.mouser.com/ProductDetail/ON-Semiconductor/CAT5140ZI-00-GT3?qs=%2Fha2pyFaduitA4mv3ZC0kp9hdzzNaVlCSYTE3Rn%2FoikqLNqx60yfjQ%3D%3D;55.64;55.64
+12;J1;PinSocket_2x08_P2.54mm_Vertical;1;Conn_02x08_Odd_Even;;;
+13;J2,J3;PinSocket_1x06_P2.54mm_Vertical;2;Conn_01x06_Female;;;
+14;J4;PinHeader_1x03_P2.54mm_Vertical;1;Conn_01x03_Male;;;
+15;J6,J7;PinSocket_1x01_P2.54mm_Vertical;2;Conn_01x01_Female;;;
+16;J8;BarrelJack_Horizontal;1;Barrel_Jack;806-312;6.3;6.3
+17;J9,J10;PinHeader_1x02_P2.54mm_Horizontal;2;Conn_01x02_Male;;;
+18;K1,K2;HE721A0510;2;HE721A0510;634-012;27;54
+19;MH5,MH6,MH7;MountingHole_2.5mm;3;MountingHole;;;
+20;PS1,PS2;RP0512D;2;RH-0515D;https://cz.mouser.com/ProductDetail/RECOM-Power/RH-0515D?qs=YWgezujkI1I0O2RytZapjw%3D%3D;171.34;342.68
+21;Q1;SOT-23-3;1;BSS138;https://cz.mouser.com/ProductDetail/ON-Semiconductor-Fairchild/BSS138?qs=HK%252BeIG1iaahCeqBvjB4arg%3D%3D;6.08;6.08
+22;Q2,Q5;TO-92_Inline;2;BC547;210-026;1.7;3.4
+23;Q3;SOT95P237X112-3N;1;FDN306P;https://cz.mouser.com/ProductDetail/ON-Semiconductor-Fairchild/FDN306P?qs=%2Fha2pyFadugSWFs5Mc2rG9fvHqMw5G1OI9uc3ZgYdDM%3D;10.53;10.53
+24;Q4;SOT-23-6;1;LTC4412ES6_TRMPBF;https://cz.mouser.com/ProductDetail/Analog-Devices-Linear-Technology/LTC4412ES6TRMPBF?qs=hVkxg5c3xu8vBeVp9%252BXk%252Bg%3D%3D;80.6;80.6
+25;R1,R3;R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;2;1M;901-036;0.68;1.36
+26;R2,R4,R6,R13,R14;R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;5;10k;901-003;0.68;3.4
+27;R5,R9,R16;R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;3;1k;901-029;0.68;2.04
+28;R10;R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;1;2k;901-066;0.68;0.68
+29;R11,R12;R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;2;5k;901-128;0.68;1.36
+30;TP1,TP2;PinHeader_1x01_P2.54mm_Vertical;2;TestPoint;;;
+31;U1;TEC3_0911;1;TEC_3-0911;https://cz.mouser.com/ProductDetail/TRACO-Power/TEC-3-0911?qs=55YtniHzbhAODAHTZEB25A%3D%3D;281.32;281.32
+32;G***;CRREAT_197x129;1;LOGO;;;
+33;J11;PinHeader_1x02_P2.54mm_Vertical;1;Conn_01x02_Male;;;
+34;J5;TerminalBlock_RND_205-00278_1x04_P5.00mm_Vertical;1;Screw_Terminal_01x04;;;
+35;R15;R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;1;470k;901-110;0.68;0.68
+;;Adaptér;1;;751-811;139;139
+;;Akumulátor;1;;540-492;159;159
+;;Držák baterie;1;;819-117;12;12
+;;Držák baterie;1;;819-089;6.6;6.6
+;;patice;1;;823-011;1.7;1.7
+;;;;;;;1266.19
